@@ -1,9 +1,6 @@
-[README.md](https://github.com/user-attachments/files/21755196/README.md)
 # Welcome to your Acquire-ease.
 
 ## Project info
-
-**URL**: 
 
 ## How can I edit this code?
 
